@@ -1,0 +1,18 @@
+file, Hc, Hu, rho, SF, SF_elong,figure,row,col,hys_steps, Title
+Hematite S63668-powder highres 0s.frc,            90,  15,  0.0004, 7  ,3    ,2, 1,1,10,a) SD Hematite TS-FORC
+Hematite S63668-powder highres 50s.frc,           90,  15,  0.0004, 7  ,3    ,2, 1,2,10,b) SD Hematite TA-FORC 50 s
+Hematite S63668-powder highres 200s.frc,          90,  15,  0.0004, 7  ,3    ,2, 1,3,10,c) SD Hematite TA-FORC 200 s
+Hematite S63668-powder lowres 0s.frc,            450, 200,  0.0001, 5  ,1    ,3, 1,1,5,SD Hematite TS-FORC
+Tiva Canyon TC04-12-05A highres 0s.frc,           40,  20,     0.1, 3  ,1    ,1, 1,1,10,a) TC04-12-05 TS-FORC
+Tiva Canyon TC04-12-05A highres 50s.frc,          40,  20,     0.1, 3  ,1    ,1, 1,2,10,b) TC04-12-05 TA-FORC 50 s
+Tiva Canyon TC04-12-05A highres 350s.frc,         40,  20,     0.1, 3  ,1    ,1, 1,3,10,c) TC04-12-05 TA-FORC 350 s
+Tiva Canyon TC04-12-06H highres 0s.frc,           40,  20,     0.2, 2  ,1    ,1, 2,1,5,d) TC04-12-06 TS-FORC
+Tiva Canyon TC04-12-06H highres 50s.frc,          40,  20,     0.2, 3.5,1    ,1, 2,2,5,e) TC04-12-06 TA-FORC 50 s
+Tiva Canyon TC04-12-06H highres 350s.frc,         40,  20,     0.2, 2  ,1    ,1, 2,3,5,f) TC04-12-06 TA-FORC 350 s
+Tiva Canyon TC04-12-07B-06 highres 0s.frc,        40,  20,     0.8, 3  ,1    ,1, 3,1,5,g) TC04-12-07 TS-FORC
+Tiva Canyon TC04-12-07B-06 highres 50s.frc,       40,  20,     0.8, 3  ,1    ,1, 3,2,5,h) TC04-12-07 TA-FORC 50 s
+Tiva Canyon TC04-12-07B-06 highres 350s.frc,      40,  20,     0.8, 3  ,1    ,1, 3,3,5,i) TC04-12-07 TA-FORC 350 s
+Tiva Canyon TC05-9.0-14B-A 0s.frc,               100,  15,     1  , 2.5,1    ,5, 1,1,5,a) TC05-9.0-14 TS-FORC
+Tiva Canyon TC05-9.0-14B-A 200s.frc,             100,  15,     1  , 2.5,1    ,5, 1,2,5,b) TC05-9.0-14 TA-FORC 200 s
+Synthetic Magnetite Wright 4000 TB2 0s.frc,      100,  50,    0.15, 5  ,1    ,4, 1,1,5,a) Magnetite Powder TS-FORC 
+Synthetic Magnetite Wright 4000 TB2 200s.frc,    100,  50,    0.15, 5  ,1    ,4, 1,2,5,b) Magnetite Powder TA-FORC 200 s
